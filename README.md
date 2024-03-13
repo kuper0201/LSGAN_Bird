@@ -10,7 +10,7 @@
 </p>
 
 # Original Paper
-<a href="https://arxiv.org/abs/1611.04076" target="_blank">LSGAN Arxiv</a>
+[LSGAN Arxiv](https://arxiv.org/abs/1611.04076)
 
 # Features
 - Generate bird images as 128*128 pixel.
