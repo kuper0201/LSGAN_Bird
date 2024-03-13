@@ -6,8 +6,7 @@
 
 # Preview
 <p align="center">
-  <img src="DCGAN.gif" width="200"/>
-  <img src="LSGAN.gif" width="200"/>
+  <img src="LSGAN.gif" width="300"/>
 </p>
 
 # Table of Units
