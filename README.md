@@ -5,7 +5,10 @@
 > Generate bird images as 128*128 pixel.
 
 # Preview
-<p align="center"><img src="images/execute.jpg" width="700"/></p>
+<p align="center">
+  <img src="DCGAN.gif" width="200"/>
+  <img src="LSGAN.gif" width="200"/>
+</p>
 
 # Table of Units
 |Item|Description|Unit|Example of output|
