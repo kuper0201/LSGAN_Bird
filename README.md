@@ -1,7 +1,7 @@
 # LSGAN_Bird
 ![Python](https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-> Implementation of LSGAN paper.
+> Implementation of LSGAN paper.</br>
 > Generate bird images as 128*128 pixel.
 
 # Preview
