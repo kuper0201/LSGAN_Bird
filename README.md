@@ -7,9 +7,11 @@
 # Preview
 <p align="center">
   <img src="LSGAN.gif" width="300"/>
+  <br/>
+  <em>LSGAN</em>
 </p>
 
-# Original Paper
+# Paper
 [LSGAN Arxiv](https://arxiv.org/abs/1611.04076)
 
 # Features
