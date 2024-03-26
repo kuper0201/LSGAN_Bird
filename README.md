@@ -5,11 +5,18 @@
 > Generate bird images as 128*128 pixel.
 
 # Preview
-<p align="center">
-  <img src="LSGAN.gif" width="300"/>
-  <br/>
-  <em>LSGAN</em>
-</p>
+<div align="center">
+  <table>
+    <tr align="center">
+      <th>DCGAN</th>
+      <th>LSGAN</th>
+    </tr>
+    <tr align="center">
+      <td><img src="DCGAN.gif" width="300"/></td>
+      <td><img src="LSGAN.gif" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 # Dataset
 
