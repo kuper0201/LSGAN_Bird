@@ -23,6 +23,8 @@
 [25 Indian Bird species with 22.6k images](https://www.kaggle.com/datasets/arjunbasandrai/25-indian-bird-species-with-226k-images)
 
 # Paper
+[DCGAN Arxiv](https://arxiv.org/abs/1511.06434)
+
 [LSGAN Arxiv](https://arxiv.org/abs/1611.04076)
 
 # Features
